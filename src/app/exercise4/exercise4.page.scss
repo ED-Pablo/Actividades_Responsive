@@ -1,0 +1,37 @@
+ion-col{
+    border: 5px solid goldenrod;
+}
+
+@media (min-width: 576px){
+    
+    #col1:first-child{
+        order:2;
+    }
+    
+#col2:last-child{
+    order:1;
+}
+}
+
+a{
+    color: black;
+  }
+  
+  .color_col{
+    display: flex;
+    justify-content: center;
+    background-color: #F1DBA2;
+    border: 2px solid #DAA520;
+    box-shadow: 3px 4px rgb(206, 206, 206);
+  }
+  
+  .color_grid{
+    background-color: #F1DBA2;
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .color_toolbar{
+    margin: 0%;
+    padding: 0%;
+  }

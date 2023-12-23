@@ -1,0 +1,45 @@
+img{
+    width: auto;
+}
+
+.col1{
+    background-color: goldenrod;
+    margin-top: 1rem;
+}
+
+.col2{
+    background-color: goldenrod;
+    margin-top: 1rem;
+}
+
+ion-col > ion-title{
+    background-color: rgb(6, 214, 214);
+    color: black;
+}
+
+ion-label{
+    background-color: rgb(221, 189, 250);
+}
+
+a{
+    color: black;
+  }
+  
+  .color_col{
+    display: flex;
+    justify-content: center;
+    background-color: #F1DBA2;
+    border: 2px solid #DAA520;
+    box-shadow: 3px 4px rgb(206, 206, 206);
+  }
+  
+  .color_grid{
+    background-color: #F1DBA2;
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .color_toolbar{
+    margin: 0%;
+    padding: 0%;
+  }

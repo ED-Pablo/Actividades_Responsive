@@ -1,0 +1,7 @@
+{
+  "name": "Actividades_Responsive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
